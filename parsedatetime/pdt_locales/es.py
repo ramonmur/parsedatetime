@@ -10,12 +10,12 @@ uses24 = True
 decimal_mark = ','
 
 Weekdays = [
-    'lunes', 'martes', 'miércoles',
-    'jueves', 'viernes', 'sábado', 'domingo',
+    'lunes', 'martes', 'miércoles|miercoles',
+    'jueves', 'viernes', 'sábado|sabado', 'domingo',
 ]
 shortWeekdays = [
-    'lun', 'mar', 'mié',
-    'jue', 'vie', 'sáb', 'dom',
+    'lun', 'mar', 'mié|mie',
+    'jue', 'vie', 'sáb|sab', 'dom',
 ]
 Months = [
     'enero', 'febrero', 'marzo',
