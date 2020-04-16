@@ -88,3 +88,8 @@ units = {
     'months': ['mes', 'meses'],
     'years': ['año', 'años'],
 }
+
+# TODO: Understand and Translate Modifiers, re_values, ignore
+# TODO: Translate re_sources, small, magnitude
+# TODO: Understand and Fix dateFormats
+# TODO: Unit tests for Spanish Locale
