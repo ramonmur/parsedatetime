@@ -77,3 +77,14 @@ numbers = {
     'diecinueve': 19,
     'veinte': 20
 }
+
+
+units = {
+    'seconds': ['segundo', 'segundos', 'seg', 'segs', 'sec', 'secs', 's'],
+    'minutes': ['minuto', 'minutos', 'min', 'mins', 'm'],
+    'hours': ['hora', 'horas', 'hr', 'h'],
+    'days': ['dia', 'dias', 'd'],
+    'weeks': ['semana', 'semanas', 'sem'],
+    'months': ['mes', 'meses'],
+    'years': ['año', 'años'],
+}
