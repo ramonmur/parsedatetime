@@ -44,3 +44,10 @@ timeFormats = {
 }
 
 dp_order = ['d', 'm', 'y']
+
+
+dayOffsets = {
+    'mañana': 1,
+    'hoy': 0,
+    'ayer': -1,
+}
